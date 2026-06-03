@@ -200,7 +200,7 @@ Provides a high-level summary of business performance.
 * Promotion Performance
 * Revenue by City
 
----
+--- https://github.com/jitendera-code/Retail-Sales-Analytics-Dashboard/blob/main/visuals/Dashboard_overview.jpg
 
 ## 2. Product & Category Analysis
 
@@ -213,7 +213,7 @@ Provides detailed product-level insights.
 * Revenue by Product Category
 * Profit by Product Category
 
----
+--- https://github.com/jitendera-code/Retail-Sales-Analytics-Dashboard/blob/main/visuals/products_category_analysis.jpg
 
 ## 3. Transaction Explorer
 
@@ -260,7 +260,7 @@ Measures promotional intensity.
 
 Tracks overall transaction activity.
 
----
+--- https://github.com/jitendera-code/Retail-Sales-Analytics-Dashboard/blob/main/visuals/transaction_table_view.jpg
 
 # Key Findings
 
